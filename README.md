@@ -20,7 +20,7 @@ https://www.baeldung.com/install-maven-on-windows-linux-mac
 
 Make sure Maven is working fine by typing mvn -v
 
-Java 1.8 
+Java 1.8+ 
 Set JAVA_HOME and give path in System Path
 
 Refer Below Article
