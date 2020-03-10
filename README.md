@@ -1,6 +1,6 @@
 <b>UrlShortner</b>
 
-The objective of this application is to provide a Short Url for a Long Url
+The objective of this application is to provide a Short Url for a given Long Url. The Short URL(URI) will be of 7 digits.
 
 <b>It provides the following functionalities :</b>
 Shorten the Long URL 
